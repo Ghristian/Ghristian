@@ -2,8 +2,7 @@
 - 👀 I’m interested in bioinformatics and Reddit related stuff
 - 🌱 I’m currently studying bioinformatics
 - 💞️ I’m currently not looking to collaborate on anything
-- 📫 How to reach me:
-DONT
+- 📫 How to reach me: E-mail is preferred
 
 <!---
 Ghristian/Ghristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
