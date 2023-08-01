@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghristian
-- 👀 I’m interested in bioinformatics and Reddit related stuff
+- 👀 I’m interested in Data-analysis in R, making Games in Godot & other things
 - 🌱 I’m currently studying bioinformatics
 - 💞️ I’m currently not looking to collaborate on anything
 - 📫 How to reach me: E-mail is preferred
